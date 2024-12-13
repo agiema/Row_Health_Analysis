@@ -46,13 +46,12 @@ The dataset consisted of three tables, including information about campaigns, si
 
 The dashboard can be found in Tableau Public [here](http://public.tableau.com/views/RowHealthDashboard_17339846457110/CampaignCategoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "here"). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 
-<img src="https://github.com/user-attachments/assets/68bac30f-900f-4c35-8219-d8e9fe7936ac" alt="image" width="1000" />
+<img src="https://github.com/user-attachments/assets/593c21c4-3d3c-4aa7-af63-bb916af589f6" alt="image" width="1000" />
 
 ## Presentation Sample
 
 The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1rskf6xORlWtJLpmHAGgL_Jv-wRPi5TuyKffFnxjQGBw/edit?usp=sharing "here"). Some extracts are presented below for easy viewing.
 
-<img src="https://github.com/user-attachments/assets/d30a6c1a-4169-450f-9ef8-1df4cc56ba5d" alt="image" width="700" />
-<img src="https://github.com/user-attachments/assets/82377b20-6712-45f1-a5ab-32f58d5f16cc" alt="image" width="700" />
-<img src="https://github.com/user-attachments/assets/dd425f34-42ca-4add-a3ac-d03f8e032758" alt="image" width="700" />
-
+<img src="https://github.com/user-attachments/assets/b2bf1a16-8172-439b-bc8d-a49ea87dda82" alt="image" width="700" />
+<img src="https://github.com/user-attachments/assets/15583c6a-b5ec-4624-abd3-fa923cb4b638" alt="image" width="700" />
+<img src="https://github.com/user-attachments/assets/3b78cfda-fb93-4d1e-b7c6-7d90ea6b8e81" alt="image" width="700" />
